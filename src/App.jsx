@@ -1,10 +1,10 @@
-import React from "react";
-import "./index.css";
-import Body from "./components/Body";
+import "./App.css";
 
 function App() {
   return (
-    <Body/>
+    <div className="App">
+      Namaste Everyone
+      </div>
   )
 }
 export default App;
